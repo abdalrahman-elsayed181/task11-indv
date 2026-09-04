@@ -1,0 +1,1 @@
+[0mCMake Error: The current CMakeCache.txt directory /home/vboxuser/Desktop/task11 indv/task11-indv/robot_design/src/build/robot/CMakeCache.txt is different than the directory /home/vboxuser/robot_design/src/build/robot where CMakeCache.txt was created. This may result in binaries being created in the wrong place. If you are not sure, reedit the CMakeCache.txt[0m
