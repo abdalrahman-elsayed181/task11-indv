@@ -1,0 +1,1 @@
+/home/vboxuser/robot_design/build/robot/ament_cmake_core/robotConfig-version.cmake

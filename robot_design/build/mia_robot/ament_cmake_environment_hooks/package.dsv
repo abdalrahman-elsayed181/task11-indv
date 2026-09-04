@@ -1,0 +1,4 @@
+source;share/mia_robot/local_setup.bash
+source;share/mia_robot/local_setup.dsv
+source;share/mia_robot/local_setup.sh
+source;share/mia_robot/local_setup.zsh

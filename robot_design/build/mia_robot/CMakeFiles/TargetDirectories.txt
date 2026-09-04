@@ -1,0 +1,9 @@
+/home/vboxuser/robot_design/build/mia_robot/CMakeFiles/uninstall.dir
+/home/vboxuser/robot_design/build/mia_robot/CMakeFiles/mia_robot_uninstall.dir
+/home/vboxuser/robot_design/build/mia_robot/CMakeFiles/test.dir
+/home/vboxuser/robot_design/build/mia_robot/CMakeFiles/edit_cache.dir
+/home/vboxuser/robot_design/build/mia_robot/CMakeFiles/rebuild_cache.dir
+/home/vboxuser/robot_design/build/mia_robot/CMakeFiles/list_install_components.dir
+/home/vboxuser/robot_design/build/mia_robot/CMakeFiles/install.dir
+/home/vboxuser/robot_design/build/mia_robot/CMakeFiles/install/local.dir
+/home/vboxuser/robot_design/build/mia_robot/CMakeFiles/install/strip.dir

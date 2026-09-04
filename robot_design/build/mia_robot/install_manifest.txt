@@ -1,0 +1,15 @@
+/home/vboxuser/robot_design/install/mia_robot/share/ament_index/resource_index/package_run_dependencies/mia_robot
+/home/vboxuser/robot_design/install/mia_robot/share/ament_index/resource_index/parent_prefix_path/mia_robot
+/home/vboxuser/robot_design/install/mia_robot/share/mia_robot/environment/ament_prefix_path.sh
+/home/vboxuser/robot_design/install/mia_robot/share/mia_robot/environment/ament_prefix_path.dsv
+/home/vboxuser/robot_design/install/mia_robot/share/mia_robot/environment/path.sh
+/home/vboxuser/robot_design/install/mia_robot/share/mia_robot/environment/path.dsv
+/home/vboxuser/robot_design/install/mia_robot/share/mia_robot/local_setup.bash
+/home/vboxuser/robot_design/install/mia_robot/share/mia_robot/local_setup.sh
+/home/vboxuser/robot_design/install/mia_robot/share/mia_robot/local_setup.zsh
+/home/vboxuser/robot_design/install/mia_robot/share/mia_robot/local_setup.dsv
+/home/vboxuser/robot_design/install/mia_robot/share/mia_robot/package.dsv
+/home/vboxuser/robot_design/install/mia_robot/share/ament_index/resource_index/packages/mia_robot
+/home/vboxuser/robot_design/install/mia_robot/share/mia_robot/cmake/mia_robotConfig.cmake
+/home/vboxuser/robot_design/install/mia_robot/share/mia_robot/cmake/mia_robotConfig-version.cmake
+/home/vboxuser/robot_design/install/mia_robot/share/mia_robot/package.xml
